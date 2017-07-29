@@ -1,0 +1,18 @@
+<?xml version=1.0 encoding="UTF-8"standalone="yes"?>
+<addonid="script.cookie.jar" name="Cookie Jar" version="1.0.0" provider-name="CrazyGrace">
+<requires>
+<import addon="xbmc.python" version"2.14.0"/>
+</requires>
+<extension point="xmbc.python.script" library="addon.py">
+<provides>executable</provides>
+</extension>
+<extension point=xmbc.addon.metadata">
+<platform>all</platform>
+<summary lang="en"=Cookie Jar</summary>
+<discription lang="en">a "Cookie Jar" addon</description>
+<disclaimer lang="en">not owned by me</disclaimer>
+<language><language>
+<source><source>
+</extension>
+</addon>
+ 
